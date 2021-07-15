@@ -1,4 +1,5 @@
 # login-form-app 
+![Demo](https://raw.githubusercontent.com/KrystynaMil/login-form-app/main/Screenshot.png)
 Created with React.js hooks:
 - useEffect
 - useReducer 
