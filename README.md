@@ -7,4 +7,4 @@ Created with React.js hooks:
 ## Start for dev
 - `npm i`
 - `npm start dev`
-To login use any email/password > 6
+- For login use any email/password > 6
